@@ -1,0 +1,1177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a puritan; and his gallimaufrey of the antichristian clergie; prepared with D. Bridges sawce for the present time to feed on. By the worthy gentleman, D. Martin Mar-Prelat, Doctor in all the faculties, Primate and Metropolitan.</title>
+            <author>Mar-Prelat, Martin, Doctor in all the faculties.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78585</idno>
+            <idno type="STC">Wing C1987</idno>
+            <idno type="STC">Thomason E87_11</idno>
+            <idno type="STC">ESTC R212793</idno>
+            <idno type="EEBO-CITATION">99871363</idno>
+            <idno type="PROQUEST">99871363</idno>
+            <idno type="VID">123773</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78585)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123773)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E87[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a puritan; and his gallimaufrey of the antichristian clergie; prepared with D. Bridges sawce for the present time to feed on. By the worthy gentleman, D. Martin Mar-Prelat, Doctor in all the faculties, Primate and Metropolitan.</title>
+                  <author>Mar-Prelat, Martin, Doctor in all the faculties.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the time of Parliament,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Martin Mar-Prelat is a pseudonym.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A-C⁴ D² .</note>
+                  <note>Running title reads: A pleasant dialogue.</note>
+                  <note>Annotation on Thomason copy: "Jan: 31"; 1643 crossed out and altered to "1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bridges, John, d. 1618 --  Early works to 1800.</term>
+               <term>Characters and characteristics --  Early works to 1800.</term>
+               <term>Puritans --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123773:1" rendition="simple:additions"/>
+            <p>The Character OF A PURITAN; AND His Gallimaufrey of the Antichriſtian Clergie; prepared with D. BRIDGES Sawce for the preſent time to feed on.</p>
+            <p>By the worthy Gentleman, D. <hi>Martin Mar-Prelat,</hi> Doctor in all the Faculties, Primate and Metropolitan.</p>
+            <p>Printed in the time of Parliament. 1643.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:123773:2"/>
+            <pb facs="tcp:123773:2"/>
+            <head>THE PREFACE. BEING A PRAYER,</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">O</seg> LORD GOD,</hi> and moſt mercifull Father, we beſeech thee, for the honour of thy holy Name, to defend us from that Antichriſt of <hi>Rome,</hi> and from all his det ſtable enormities, Manners, Laws, Altars, Garments, and Ceremonies. Deſtroy the Councel of all Papiſts and Atheiſts, enemies of thy Goſpel, and of thu Realme of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Diſcloſe their miſchiefes and ſubtill practiſes: confound their devices: let them be taken in their own wilineſſes: and ſtrenghen all thoſe that maintaine the cauſe and quarrell of thy Goſpel, with invin<g ref="char:EOLhyphen"/>cible force and power of thy holy Spirit: ſo that, though they be deſtitute at any time of worldly ayd and comfort, that yet they fayle not to proceed and goe forward towards that true godlineſſe commanded in thy holy Word, with ſimplicity and ſincerity: to thy honour and glory, the com<g ref="char:EOLhyphen"/>fort of thine Elect, and the comfuſion of thine enemies; through <hi>Chriſt</hi> our Lord and Saviour. <hi>Amen, Amen.</hi> And ſay from the heart <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:123773:3"/>
+            <pb facs="tcp:123773:3"/>
+            <head>A DIALOGVE, WHEREIN IS PLAINLY LAYD OPEN THE TYRANNICALL DEALING OF LORD BISHOPS, againſt <hi>Gods</hi> Children.</head>
+            <head type="sub">The Speakers are theſe
+<list>
+                  <item>
+                     <hi>Puritan.</hi>
+                  </item>
+                  <item>
+                     <hi>Papiſt.</hi>
+                  </item>
+                  <item>
+                     <hi>Iacke of both ſides.</hi>
+                  </item>
+                  <item>
+                     <hi>Idoll Miniſter.</hi>
+                  </item>
+               </list>
+            </head>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>
+                  <seg rend="decorInit">Y</seg>OU are well overtaken Sir, doe you travell farre this way I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Towards <hi>London</hi> Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I ſhall willingly beare you com<g ref="char:EOLhyphen"/>pany, if it pleaſe you?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>With all my heart, I ſhall be very glad of yours.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>From whence came you this way?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I come out of <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Out of what part of <hi>France</hi> came you I pray you? I came from <hi>Rochell</hi> my ſelfe, which is a part of <hi>France.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Is it ſo, but I came not neare that place.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Out of what part of <hi>France</hi> came you then?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I came from <hi>Orleans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I pray you what News from thence, is there any likelyhood of Peace there?</p>
+            </sp>
+            <pb facs="tcp:123773:4"/>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Yes ſurely, there is ſome hope of Peace, for where the Kings powers come, they doe commonly yeeld preſently.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>It is a good hearing.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>What is he that comes after us ſo faſt?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>He ſeems to be ſome Preacher, or dumb Miniſter, it may be he goes our way: if he doe I hope we ſhall have his company, whereby we may paſſe away the time in ſome good conference, and alſo heare what News there is at home here in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I am content Sir, for I ſhall be glad to heare ſome good News, me thinks I have bin very long abſent from hence.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Very well, we will goe the ſo ſoftlier, that he may overtake us I but by the way, I pray you, if you come from <hi>Or<g ref="char:EOLhyphen"/>leans,</hi> there they have the Maſſe, for they are of the League: and then I ſuppoſe you have bin partaker of their Idolatry?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>No I aſſure you, I deteſt all Idolatry, even from my heart.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>If you doe ſo, I am very glad of it, but I pray you let me heare if you can give me ſome proofe out of the Word of <hi>God,</hi> for the confirmation of this your proteſtation againſt Idolatry?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I am content to give you a taſte thereof, whereby it ſhall appeare that I am farre from it: For ſo dearely as I tender the ſalvation of my own ſoule, ſo carefull am I to ſhun and fly from all Idolatry. For it is written, <hi>Deut.</hi> 6.13. <hi>Thou shalt wor<g ref="char:EOLhyphen"/>ship the Lord thy God, and him only shalt thou ſerve:</hi> And the Apo<g ref="char:EOLhyphen"/>ſtle <hi>Paul</hi> to the <hi>Gorinth.</hi> 1 Epiſt. cap. 10. verſ. 14. commandeth us to <hi>Flie from Idolatry,</hi> for Idolatry is ſinne, and <hi>the mages of ſinne is death,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>It is well applyed, and ſomwhat to the purpoſe, I am very glad if it be done in ſinglenes of heart: For me thinks you could not poſſibly be in that place, but you muſt be forced to be preſent at their Idolatrous Maſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I was never preſent at it in my life, I thanke <hi>God:</hi> but the Papiſts ſtick not to ſay that our Service Booke in Eng<g ref="char:EOLhyphen"/>liſh is (a great part of it) but a meere tranſlation out of the Maſſe-Booke.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Indeed it is true, that moſt part of our Booke of Common Prayer (as they ſay) is a meere tranſlation out of the Maſſe-Booke: but yet there is no ſuch Blaſphemic and Idola<g ref="char:EOLhyphen"/>try tollerated in it, as is dayly in the Maſſe: although it greatly
+<pb facs="tcp:123773:4"/>derogate from the Word, and is full of great and grievous corruptions. But I pray you how long were you in <hi>Orleans</hi> Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I was there about a fortnight.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>No longer?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>No Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Here comes the Miniſter now, we will heare what News he can tell us, he ſeems to be but an Idoll Shepheard: we ſhall have ſome good conference with him I hope, to paſſe away the time?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſter.</speaker>
+               <p>You are well overtaken Gentlemen, which way travell you, I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Towards <hi>London,</hi> and if it pleaſe <hi>God.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I ſhall be glad of your company, and if it pleaſe you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>We alſo ſhall be glad of yours Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I pray you Mr. Vicar or Parſon (for ſo you ſeem to be) what good News is there here at home, in <hi>England,</hi> for we have been both of us in <hi>France,</hi> and we would gladly heare ſome good News?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Indeed I am a poore Vicar: truly we have no great good News here Sir: For our Church is ſo ſore peſtered with Sects and Schiſmes, that the Reverend Fathers, and eſpecially my Lords Grace of <hi>Canterbury</hi>) are ſo ſore troubled with them, that they have no leaſure to recreate themſelves for thoſe Fel<g ref="char:EOLhyphen"/>lows, they are ſo bold and mallepert, that they preferre Peti<g ref="char:EOLhyphen"/>tions to Her Majeſty, the Lords of the Councell; yea and in Print to the High Court of Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Why Sir, what be they that do this, what doe you call them, are they Papiſts?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>No, they are worſe then Papiſts, for they are fant<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſticall <hi>Puritans</hi> and <hi>Browniſts,</hi> and I cannot tell what.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>What be the points they hold, that are ſo ſchiſma<g ref="char:EOLhyphen"/>ticall and erronious?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Forſooth, they would have no Lord Biſhop, but every Miniſter to be of equall Authority one with another, and ſo make a confuſion in the whole State: for they have ſet down a new platforme of (Diſcipline forſooth, as they call it) they cannot tell what themſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I will tell you my opinion, of Lord Biſhops, it is but an <hi>humane conſtitution,</hi> and not warrantable by the Word, but utterly forbidden: and as for the Diſcipline you ſpeake of, I wiſh all <hi>Gods</hi> people would practiſe it.</p>
+            </sp>
+            <pb facs="tcp:123773:5"/>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Oh, I perceive you are one of theſe Fantaſticall <hi>Puritans</hi> or <hi>Browniſts,</hi> I pray you out of what place of <hi>France</hi> came you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I came from <hi>Rochel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I thought from <hi>Rochel, Geneva</hi> or <hi>Scotland,</hi> you ſeem to be a Bird of one of thoſe neſts.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Sir, whatſoever I am, I doe not doubt but to be able to prove by the Word what I have ſaid, and namely, the unlawfullneſſe of Lord Biſhops.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Sir, that point hath been handled by your betters, and manifeſtly confuted by my Lords grace, in his writings againſt <hi>Cartwright.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Indeed he that will be blind, cannot ſee it, but he that looks in both their Works, with a ſingle eye, cannot but confeſſe Mr. <hi>Cartwright</hi> to have confuted him by unanſwerable evidence: or els why would he not have anſwered Mr. <hi>Cart<g ref="char:EOLhyphen"/>wrights</hi> works, now a dozen yeares extant and more.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>As you of the Fantaſticall crew think, but he hath done it, and that ſo ſufficiently already, that there needs no more Anſwers: and againe, his Grace is now otherwiſe troubled with matters of State, that he cannot intend it: or if he could, yet it is not for him ſo to abaſe himſelfe, in regard of his high Calling which he is now placed in.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>As though the cauſe of <hi>God</hi> were to be neglected in reſpect of his high place: if he were lawfully called there<g ref="char:EOLhyphen"/>unto, as he doth very unlawfully uſurpe the ſame, contrary to the Law of <hi>God:</hi> for is it poſſible he can be the true Miniſter of <hi>God,</hi> and a Temporall Magiſtrate, that is, <hi>to ſerve God and Mam<g ref="char:EOLhyphen"/>mon to;</hi> as the Apoſtle ſaith, <hi>Let him that hath an office attend upon his office,</hi> and not Offices.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Why, how dare you preſume to ſay ſo? Were not Lord Biſhops eſtabliſhed by Her Majeſty and conſent of the whole Parliament?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I grant they were, but the <hi>Lord</hi> hath ſaid contrary, in the Commandement he gave to his Miniſters, <hi>Luke</hi> 22. ſaying, <hi>The Kings of the Gentiles raigne over them, and they that beare rule over them are called gracious Lords: but ye shall not be ſo: but let the greateſt among you be as the leaſt, and the chiefeſt as him that ſerveth.</hi> And 1 Pet. 5. <hi>Feed the Flocke of God which dependeth upon you, caring for it, not by conſtraint, but willingly; not for filthy lucre, but of a ready mind: Not as though ye were Lords over Gods heritage, but that ye may be enſamples to the Flocke.</hi> And in the firſt
+<pb facs="tcp:123773:5"/>ſeſſion of <hi>Parliament,</hi>
+                  <note place="margin">☜</note> holden in the Firſt yeare of her Majeſties raigne, there was never a Lord Biſhop in the Land.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>If you will have no Lord Biſhop, how ſhould the Church be governed then?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>According as our Saviour <hi>Chriſt</hi> hath command<g ref="char:EOLhyphen"/>ed, and as the Holy Ghoſt hath ſet it down, <hi>viz.</hi> by <hi>Paſtors, Teachers, Elders,</hi> and <hi>Deacons, Rom</hi> 12. <hi>Epheſ.</hi> 4.1 <hi>Cor.</hi> 12.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>You are very full of Scripture, as though we have not the ſame Offices in effect, though not in the ſame Titles: as for example, have not we Parſons for <hi>Teachers,</hi> Vickers for <hi>Paſtors,</hi> Churchwardens for <hi>Elders,</hi> and Sidemen for <hi>Deacons,</hi> to diſtribute to the poore.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>And what for Archbiſhops, and Lord Biſhops?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I will tell you for him, Archbiſhops for Popes, and Lord Biſhops for Cardinals. Ha, ha, Mr Vicker, I ſee you are a good Churchman, doe not you uſe the Pulpit ſome<g ref="char:EOLhyphen"/>times?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>No indeed Sir, but I read the Homilies ſomtimes, and the Queens Injunctions, and doe my duty as other Mini<g ref="char:EOLhyphen"/>ſters doe.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I thought ſo, by that fit compariſon that you have made.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>And have you no more but one Benefice neither, and yet doe all that?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Yes indeed, I ſay Service at two more, but I have little profit by them: marie the beſt is, they are ſomwhat neer, for they are all three within foure miles together.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>And how can you ſerve them all upon the Sabbath day?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Some of them are but ſmall, and I can make quicke diſpatch with them betimes, and take my Mare and ride to the other: and can make an end of all by ten of the clocke; and ſpend an houre with good Fellows at home before Dinner to.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>And Maſter Vicker, do you think herein, that you diſcharge your <hi>duty</hi> to <hi>God,</hi> and thoſe Congregations, over whom you have taken this charge?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Why Sir, I diſcharge my <hi>duty better</hi> then thoſe that take upon them foure or five.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Why? is there any that takes upon them the charge of ſo many?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Yea a hundred in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Well I will tell you, the fearefull judgements of
+<pb facs="tcp:123773:6"/>
+                  <hi>God</hi> hangs over our heads, and cannot be long deferred, but fall upon the whole Land (where to ſuch dumb Idolls as you are, is committed the charge of ſoules) and to your ſelves eternall deſtruction of body and ſoule: wherfore Mr. Vicker, as you tender your owne <hi>ſalvation,</hi> leave this your unlawfull Calling of the Miniſtry, and betake you to ſome occupation, or Husbandry.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I care not what any of you ſpightfull <hi>Puritans</hi> ſay, ſo long as I can have the favour of my Lord Biſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I pray you Mr. Vicker let me ſpurre a queſtion unto you, if I may be ſo bold, where do you ſerve?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I ſerve in <hi>Middleſex</hi> Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Who made you Miniſter?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>My good Lord of <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Like enough, he hath made a great many of blind guides in his time beſides you: for he made the Porter of his Gate, Miniſter of Paddington, being blind.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>O monſtrous, is this true, did he ſo indeed?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>It is moſt true, for the Biſhop of <hi>Wincheſter</hi> hath recorded it in a Booke of his ſet forth in Print.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why, what will our Biſhops grow to in time, if they be ſuffered? for me thinks this is a fearefull thing, to make ſuch Miniſters, as can neither ſee, nor ſpeake: for it is like if he were the Porter (no doubt of it) he had not the gift of Teaching?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Very true: but becauſe he could do him no lon<g ref="char:EOLhyphen"/>ger ſervice, he was ſo good to him, to provide for the poore blind man that he might live.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Sure I think when they come once to be Lords, they cleane forget <hi>God</hi> and all Godlineſſe: for I have heard that there was ſome good things in him before he was Biſhop of <hi>London:</hi> for he wrote a Book, called, <hi>the Harborow of faithfull Subjects,</hi> againſt Biſhops: wherein he ſaith, <hi>Come down ye Bishops with your thouſands, and betake you to your hundreds, let your fare be Prieſtlike, and not Princelike,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Indeed he wrote ſuch a Book, and the ſame words that you repeat, I have read in the ſame: but alas, when he was at the beſt, he was but a corrupt man; and the beſt things in it, ſavour but of earth: for there is many things handled in it very immodeſtly, and unchriſtianly: but one thing eſpecially he ſets down there, which himſelfe practiſeth clean contrary: where he ſpeaks of the ability that ſhould be in every Miniſter of the
+<pb facs="tcp:123773:6"/>Word, <hi>that he should know his quarter ſtrocks, to be able to convince the adverſary,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Why? will you have none Miniſters, but ſuch as can preach? I can tell you, that the twentieth Miniſter in the Land cannot preach.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>The more the worſe: for you and the reſt, how many ſoever there be ſtand without <hi>repentance</hi> in a moſt dam<g ref="char:EOLhyphen"/>nable ſtate: for you are moſt notorious murtherers of ſoules, in taking upon you ſo high a Calling, and being ſo farre unfit for it; ſo many as periſh for want of teaching in your charge, their bloud the <hi>Lord</hi> will require at your hands.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>The Biſhop knew my ability before he mad me Miniſter.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Well, he ſtands in the ſtate of damnation as you do, and thus much I ſay unto you, and to all Idoll Miniſters, and to him, and all uſurping Archbiſhops and Lord Biſhops, leave your unlawfull Callings, into which you have intruded your ſelves; and with ſpeed repent, and humble your ſelves before the Majeſty of <hi>God,</hi> confeſſing your horrible and grievous ſins with <hi>Peters</hi> teares, in that you are the caufe, yea and alſo the very murtherers of ſo many ſoules, as periſh in your charges: knowing that the <hi>Lord</hi> will in that great and terrible day, re<g ref="char:EOLhyphen"/>quire their bloud at your hands.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>O <hi>Lord,</hi> my heart quaketh to heare of ſo great and grievous ſins as are in our Biſhops, and in the whole Miniſtry: but our Biſhops are the cauſe of all.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I will tell you Sir, I am perſwaded in my very Conſcience, that the <hi>Lord</hi> hath given many of our Biſhops over into a reprobate ſence, for they do willfully oppoſe them<g ref="char:EOLhyphen"/>ſelves againſt the <hi>Lord,</hi> and his known <hi>truth,</hi> yea and <hi>perſecute</hi> it (and I ſuppſe them to be in the ſtate of the ſinne againſt the Holy Ghoſt) for they have manifeſted in their publiſhed writ<g ref="char:EOLhyphen"/>ings, yea and preſſed forth by Authority, ſuch horrible blaſ<g ref="char:EOLhyphen"/>phemous, Hereticall, yea damnable Doctrines, which my very heart trembleth to repeat, in ſort as they have ſet, them down: which if thoſe (whom they call <hi>Puritans</hi>) ſhould ſet down or hold the like errours and dangerous points, I warrant you they ſhould ſoon be cut off from the face of the earth, and right well they were worthy.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Now Sir, I pray you let me heare ſome of the points they hold, and that are ſo dangerous as you ſay, that I may be able to juſtifie it to our dumb dogs teeth, at <hi>Auſtins</hi> Gate in <hi>Lon<g ref="char:EOLunhyphen"/>don,</hi> when I come home</p>
+            </sp>
+            <pb facs="tcp:123773:7"/>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Firſt you ſhall underſtand that the Biſhop of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> hath publiſhed in Print, and that in an Epiſtle or Preface before <hi>Barnardeus de loques</hi> Book of the Church, publiſhed in Engliſh, <hi>that the Puritans may aſwell deny the Sonne of God to be conſubſtantiall with God the Father, as they may deny the ſuperiority of Archbishops and Lord Bishops,</hi> flat contrary to the ſaying of our Saviour <hi>Chriſt, Luke</hi> 22.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>O monſtrous and blaſphemous wretch, that to main<g ref="char:EOLhyphen"/>taine his fleſhly pleaſure, will make ſuch an odious compa<g ref="char:EOLhyphen"/>riſon.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Nay, what ſay you to a Biſhop that hath two Wives, and both now living? Do you not thinke it is a thing tollerable in a Chriſtian Common-wealth, where the Goſpel is profeſſed?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>No indeed doe I not, I hope our Magiſtrates will not ſuffer ſuch a Biſhop to live: it were monſtious among common Infidels, much more intollerable, that a Biſhop in ſuch a Land as ours is, where the Goſpell is truly taught: But I pray you is there any ſuch now living?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Yes indeed is there, and the Biſhop of Saint <hi>Davids</hi> in <hi>Wales</hi> is the Man, he is now living, and both his Wives, and yet ſtill remaines a Biſhop.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Is it poſſible that a Biſhop ſhould commit ſuch an horrible act as this, how farre are our Biſhops from obeying the Commandement of the Apoſtle <hi>Peter,</hi> who ſaith, <hi>Feed the Flocke, and be enſamples to the Flock:</hi> what enſample <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s this? And doth not the ſame <hi>God</hi> which ſaith, <hi>Thou shalt doe no murther,</hi> which is <hi>death</hi> by our Laws; doth he not ſay, <hi>Thou shalt not commit adultery:</hi> And yet a Biſhop to have two Wives at once, and live in a Church, profeſſing the <hi>ſincerity</hi> of the Goſpell: What ſay you to this Maſter Vicker, is not our Church well governed think you?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>If it be true, it is (I muſt needs confeſſe) a horrible thing and worthy of death: but I do not beleeve it.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>It is very true, for the cauſe was brought before the High Commiſſioners at <hi>Lambeth,</hi> and how it is ſmothered up among the Biſhops, and the reſt of the Commiſſioners, I know not yet: but I could tell you the whole concluſion, if I were at <hi>London</hi> but halfe an houre.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why the ſuffering of this, and other like villanies, to be committed in our Nation, are cauſes to ſtirre up the <hi>Lord</hi> to wrath, againſt the whole Land, whereby he may ſpeedily
+<pb facs="tcp:123773:7"/>bring his <hi>judgements</hi> upon us, yea even to our utter <hi>deſtruction.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It is ſo, if it be true: but I will not beleeve it.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Well, for the truth of the matter, I referre you to the High Commiſſioners, where it is recorded, with his Wives names, <hi>viz. Elizabeth Gigge,</hi> and <hi>Alice Prime.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Indeed I have heard of the like before, that you <hi>Puritans</hi> have put forth a Booke in Print, under the name of <hi>Martin Mar-prelate,</hi> wherein many ſuch things are mentioned.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>There is nothing ſet down in it, but there is good proofe of the ſame, and the Biſhop of <hi>Wincheſter,</hi> who took upon him to confute it, hath confirmed it for the moſt part; and that he denies is moſt true.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>What did he undertake to <hi>confute</hi> it? Alas he is alto<g ref="char:EOLhyphen"/>gether unlearned (for I have heard of him in <hi>Oxford;</hi> and the Papiſts ſay, <hi>they can make him beleeve the Moone is made of greene cheeſe</hi>) mary to get him a name (forſooth) being a Correcter with a Printer in <hi>Fleet-ſtreet</hi> in <hi>London,</hi> who Printed a Dictio<g ref="char:EOLhyphen"/>nary, called <hi>Sir Thomas Eliots</hi> Dictionary, <hi>Cooper</hi> tranſſated a piece of <hi>Robert Stephanus</hi> his <hi>Theſaurus,</hi> and joyned it to the ſame, with a few Phraſes; and ſo bereaved the Famous Knight of his labour, and calls it by the name of <hi>Coopers Dictionary:</hi> how ſay you Maſter Vicker, was not this a knaviſh tricke, tell me?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I ſay you deale very unreverently with my Lord: for I can ſay nothing to the matter elſe; for I know it not to be true?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>What ſay you to this then Maſter Vicker, did you never heare of your Lord Biſhop of <hi>London,</hi> who made the Dyars in Thames-ſtreet, who were robbed by Theeves that ſtole their Cloath, and brought it within his Liberties, which when the poore Dyars hearing where their Cloath was, and coming to the Biſhop to demand their own goods, he ſaid, <hi>if they would hang the Theeves, he would then ſay more;</hi> which the Dyars did: and at their deaths, confeſſed that to be the Dyars Cloath which the Biſhop had: but the poore men were never the neare for their Cloath; nor cannot get it, or any part of it to this day: and this is confeſſed to be true, by the Biſhop of <hi>Wincheſter</hi> in his anſwer to <hi>Martin Mar-prelat,</hi> publiſhed in Print by Authority: wherein he ſaith, <hi>it is the Bishop of Londons own, by the Laws of the Land, becauſe it was taken within his Liber<g ref="char:EOLhyphen"/>ties:</hi> marke, he ſpeakes nothing of the Law of <hi>God,</hi> according to Conſcience, in keeping of Thiefe-ſtollen goods from their
+<pb facs="tcp:123773:8"/>right owners, for Conſcience is fled from them (it ſeems) ſo ſoon as they are gotten to be Lord Biſhops once.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Yes Sir, I know there is ſuch a Book, named <hi>Martin Mar-prelate,</hi> a moſt vile and ſlanderous Libell: but I doe not thinke my Lord of <hi>Wincheſter</hi> doth approve any thing that is ſet down there in any of thoſe Books, for they have put forth three or foure Books under that Title.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why Maſter Vicker, how do they to get their Books Printed?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Tuſh, they doe well enough for that, there is a Se<g ref="char:EOLhyphen"/>ditious Fellow, one <hi>Walde-grave,</hi> who commonly Prints all ſuch Books (I know him well enough) he did keep a Shop at the Sgne of the Crane in <hi>Pauls</hi> Church-yard: at which time he had his Preſſe and Letters taken away from him, and de<g ref="char:EOLhyphen"/>ſtroyed for the ſame cauſe, by my Lords Grace of <hi>Canterbury,</hi> and now he works in corners up and down the Countrey like a Vagabond.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>With a ſeared Conſcience, did the Biſhops that violence to him, in regard both of the Cauſe, and alſo for the great charge he hath of Wife, and ſix ſmall Children; and now to bereave his Poore Family of him, whoſe labours was their only comfort and maintenance.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Maſter Vicker, how long was it ſince <hi>Walde-graves</hi> goods were deſtroyed, I have heard of him before now, but I know him not?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Tuſh, you know him well enough I am ſure, it is ſince his goods were deſtroyed about Eaſter was a twelve moneth.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>And hath he been all this time abſent from his Fa<g ref="char:EOLhyphen"/>mily?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I Sir, and if he had bin there, he would eaſily have been had, for he hath been watcht well enough for that?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I will tell you Sir how they deale with him, when they have any ſuſpition that he is at home, although he durſt never come nome, they ſtick not in the dead time of the night, to break down the main walls of his houſe, and enter in with Conſtables and Purſuivants; and this a common thing with them.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I am perſwaded, the Biſhops had been better to have given him freely 2. hundred pounds towards the ſetting up of a new Printing houſe for himſelfe, then to have deſtroyed his as they have done.</p>
+            </sp>
+            <pb facs="tcp:123773:8"/>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I thinke ſo, for it may be he would have followed his Calling ſome other way, then to be imployed in thoſe things.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Yonder comes a man plodding a pace after us what<g ref="char:EOLhyphen"/>ſoever he be.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It may be our company will increaſe, and ſo we ſhall goe the more cheerfull; for it begins to be late, and it is dangerous going here abouts late, I can tell you.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>It may be he is one <hi>of</hi> your coate Maſter Vic<g ref="char:EOLhyphen"/>ker.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I cannot tell, but if he be, he ſhall be welcome to me.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Surely he comes apace, whatſoever he be.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It may be he would be glad of company.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Well let us goe on and continue our talke.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Maſter Vicker, I thinke you be weary of our com<g ref="char:EOLhyphen"/>munication, if you be let us know?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>No by my Faith sir not I, ſay what you will a <hi>Gods</hi> name.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Fie, Maſter Vicker, will you ſweare? I think you learned that of your Lord Biſhop of <hi>London,</hi> for he uſeth it often when he is at Boules.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>What will Biſhops ſweare?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Sweare Sir, I that they will, and defend it to, when they have done. For in the firſt Booke of <hi>Martin,</hi> there is mention made of the Biſhop of <hi>Londons</hi> Swearing, when he is at Bowles: And the Biſhop of <hi>Wincheſter</hi> in anſwering the ſame, ſaith thus, in pag. 62. of his Booke, <hi>That our Saviour Chriſt uſually ſware by his Faith in his Sermon: for he ſaid</hi> Amen, Amen, <hi>which is as much to ſay</hi> (ſaith he) <hi>as by my Faith, by my Faith.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why, is that Biſhop of <hi>God,</hi> that will Sweare thus?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Fo, I have heard my Lords Grace of <hi>Canterbury</hi> Sweare by his Faith an hundred times; yea and by <hi>God</hi> too ſomtimes; and what he doth, I take it as a good preſident for ſuch as I am to follow.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Ile tell: you Maſter Vicker, I am of Doctor <hi>Bridges</hi> his mind of our Biſhops: for (ſaith he) page 339, 340. <hi>That all our Lord Bishops in</hi> England, <hi>are the Bishops of the Divel:</hi> And I am ſure of it by theſe two marks, <hi>viz. By their tyrannicall dealing againſt Gods Children.</hi> And <hi>by their wicked
+<pb facs="tcp:123773:9"/>and unconſcionable lives, that they are not of God?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I pray you hath Doctor <hi>Bridges</hi> written any Booke that is publiſhed to this effect?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Yes indeed, and the Biſhop of <hi>Canterbury</hi> hath con<g ref="char:EOLhyphen"/>firmed it by his authoriſing of the ſame; and alſo by his con<g ref="char:EOLhyphen"/>tinuall practiſe againſt <hi>Gods</hi> Children.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>But I pray you Sir, how wickedly hath he wreſted the Scripture, in ſaying, our Saviour <hi>Chriſt</hi> continually ſware in his Sermons, when he ſaid <hi>Amen, Amen?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Why, the Biſhop of <hi>Wincheſter</hi> is moſt impudent in all his actions: for he very blaſphemouſly in his Sermon, preached at <hi>Mary Overies</hi> at <hi>London,</hi> ſaid, <hi>that a man might aſwell find fault with the holy Scripture, as with our corrupt Common Booke of Prayer.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Out upon him blaſphemous wretch, he is certainly the Biſhop of the Divel, as Doctor <hi>Bridges</hi> ſaith.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan</speaker>
+               <p>Will you heare ſome more of his Divinity?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>O yes I pray you Sir. And yet my heart trembleth to heare of ſuch odious blaſphemies as theſe.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>He ſaith in the 49. page of his Book againſt <hi>Mar<g ref="char:EOLhyphen"/>tin Mar-prelate, That the Creed of the Apoſtles, Athanaſius, and the Nicene,</hi> &amp;c. <hi>containe in them many palpable lyes.</hi> Now tell me your opinion of this, is it ſound and ſubſantiall Doctrine, I pray you tell me?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Doctrine, yea indeed this may truely be ſaid to be the Doctrine of Devils. Why, whither will our Biſhops runne in time trow you, if the Magiſtrate ſuffer them?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I will tell you, even to their Father the Devil: For they have at no time taken in hand to write in defence of their Hierarchie: but it hath made their eyes ſo to dazle, that they run into moſt dangerous and damnable errours, (as in this Booke of the Biſhops will be proved neare 500. errours) yea in correcting and controuling the mighty <hi>word of God:</hi> and alſo have interlaced their writings with ſuch contrariety of matter, as one part of their own Books may ſerve to confute the other, with infinite abſurdities: yea and by your leave to, even flat Treaſon?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Many good men did never judge the Biſhop of <hi>Win<g ref="char:EOLhyphen"/>cheſter,</hi> to be but an Hypocrite?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>He is a moſt bittrer man to all thoſe that <hi>feare God,</hi> and have to deale with him: for he may well be compared to a Horſe with a gald backe, that hath bin ſo rub'd, that he
+<pb facs="tcp:123773:9"/>winces, frets, and chafes ſo, that he is ready to throw himſelfe to utter deſtruction, with purpoſe to hurt him that rub'd him: Even ſo, this Biſhop takes to himſelfe ſo much liberty in abu<g ref="char:EOLhyphen"/>ſing and profaning the holy <hi>word of God,</hi> (againſt thoſe that write in the <hi>Lords</hi> Cauſe, againſt their unlawfull Callings) and that I feare me, to the indangering both of body and ſoule.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I have heard that when he was at <hi>Lincolne</hi> he dealt not ſo hardly with the Miniſters as now he doth, and that of<g ref="char:EOLhyphen"/>ten in his Sermons at <hi>Northampton</hi> he would confeſſe, <hi>that the Diſcipline was uſed and practiſed in the Primitive Church, a long time after the Apoſtles.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>It is very true, and yet he ſaith in his Book againſt <hi>Martin, that the holy Diſcipline is a platforme deviſed, he knows not by whom.</hi> And in another place of the ſame Booke, he confeſtes <hi>that it was practiſed by the Apoſtles, and long time after in the Primi<g ref="char:EOLhyphen"/>tive Church.</hi> And upon the words where he ſaith <hi>it is not denyed,</hi> there is paſted, at the commandement of the Biſhop of <hi>Canter<g ref="char:EOLhyphen"/>bury, It is not yet proved:</hi> ſo that there is ſome jarre, between themſelves, although theſe two are moſt converſant together, and joyn in one to <hi>perſecute ſincere</hi> and <hi>faithfull</hi> Preachers of the Word, and others of the <hi>Lords</hi> Children.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I had thought they would not have diſſented one from another of them.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Why Sir, in the 49. page of the ſame Booke, the Biſhop of <hi>Wincheſter</hi> ſaith, the Biſhop of <hi>Canterbury is a giddy head, and to be bridled,</hi> becauſe he authoriſed Doctor <hi>Whitaker</hi> his readings againſt <hi>Bellarmine,</hi> wherein the <hi>Apocripha</hi> is defa<g ref="char:EOLhyphen"/>ced. And Mr. Doctor <hi>Some,</hi> one of their affinite no we, and a nonreſident, he calls the Archbiſhop of <hi>Canterbury An abſurd Hereticke,</hi> becauſe he holds <hi>Baptiſme</hi> adminiſtred by Women, to be the Seale of <hi>Gods</hi> Covenant: pag. 3. of his Booke, againſt Maſter <hi>Penri,</hi> and many like things I could cite to you, of their diſſenting one from another.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>How like you of theſe things Maſter Vicker, be not theſe good Fathers of the Church, think you?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>
+                  <hi>I</hi> like never a whit the worſe of them for your words, for <hi>I</hi> know they are but ſlaunders.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Maſter Vicker, you <hi>I</hi> know like well of them, although the proofes that their adverſaries doe bring be never ſo manifeſt and plain againſt them, becauſe you are in the ſame ſtate, or worſe (and may be) in that you doe unlawfully uſurpe
+<pb facs="tcp:123773:10"/>your place, and having no fit Gifts to diſcharge your duty in any meaſure: Remember what the Apoſtle ſaith, 1 <hi>Cor.</hi> 6.19. <hi>Woe to me if I preach not the Goſpel;</hi> this is rightly pronounced upon you, and all ſuch Idols as you are.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>If <hi>I</hi> read Sermons and Homilies, is it not as much as if <hi>I</hi> preached: for Mr. Doctor <hi>Bridges</hi> ſaith, that <hi>reading is preaching.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>The <hi>Lord</hi> hath promiſed no ſuch bleſſing unto reading as preaching: for the Word preached is the onely or<g ref="char:EOLhyphen"/>dinary meanes to <hi>ſalvation.</hi> But <hi>I</hi> pray you for your comfort, heare what the Prophet <hi>Ieremy</hi> ſaith to you, in the 48 Chap. <hi>Curſed be that man, that doth the worke of the Lord negligently.</hi>
+               </p>
+               <p>And <hi>Mallac.</hi> 2.7. ſaith, <hi>The Prieſtes lips should preſerve knowledge, and they should ſeeke the law, at his mouth:</hi> but how can you ſhunne this curſe Maſter Vicker? <hi>I</hi> pray <hi>God</hi> humble your heart that you may acknowledge your ſinne, and crave pardon at his hands; and leave the Miniſtry, leſt the <hi>Lord</hi> with a ſtrong hand throw you out to your everlaſting woe.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Maſter Vicker, he gives you good councell, it were good for you to follow it, if you doe not, it will be the worſe for you.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Well Sir, it is no matter, there be as wiſe as he will give me other councell.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why <hi>I</hi> ſee Maſter Vicker is obſtinate, he will not be perſwaded by you.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Even as he will, <hi>I</hi> ſpeak my Conſcience to him, he may chuſe if he will follow it or no.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>
+                  <hi>I</hi> marvell what good hoſpitality the Biſhop of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> keeps, <hi>I</hi> have heard that he is very <hi>covetous.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Indeed he doth keep a good <hi>houſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>What doth not the dogs runne away out of his <hi>houſe</hi> with whole ſhoulders. <hi>I</hi> think a man may as ſoone break his neck, as break his faſt at his <hi>houſe.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Surely <hi>I</hi> can ſay thus much by report of one that was his Chaplaine, whoſe name is <hi>Haiward</hi> Vicker of Saint <hi>Martins, by Charing croſſe,</hi> that often times when he dined at his Pallace in <hi>London,</hi> he hath made his Servants, to take the Frag<g ref="char:EOLhyphen"/>ments, and carry them to <hi>Fulham:</hi> but if there be any dainty morſell leſt, he will wrap it up in his Handkerchiefe, and carry it in his boſome, for feare leſt his men ſhould beguile him.</p>
+            </sp>
+            <pb facs="tcp:123773:10"/>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>O Maſter Vicker, you have a moſt bountifull Lord: he is ſo liberall, that he will not ſuffer the ſcraps to be be<g ref="char:EOLhyphen"/>ſtowed upon the poore, but to be kept for his Servants Sup<g ref="char:EOLhyphen"/>per.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>It is falſe: for <hi>I</hi> have often ſeen alines given at his Gates, when he hath lien at <hi>London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Ile tell you what <hi>I</hi> have heard him ſay at <hi>Panls</hi> Groſſe my ſelfe upon a time, following his text very well: (your muſt think) he burſt me out with a great exclamation of himſelfe, in that he was poore and had no money, proteſting what charges he had bin at, <hi>and that Pauls Church can beare me witneſſe</hi> (ſaith he) <hi>that I have no money.</hi> And ſhortly after; ſome of his own Servants being there preſent, and heard him (belike thought to make their good Lord a lyar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very ſhortly after, rob'd him, of certain hundred of pounds: for which offence, he was ſo good unto his men, as to hang them up three or foure in number, I although he had the moſt part of his money a<g ref="char:EOLhyphen"/>gaine) and ſome of the parties executed, proteſted to their knowledge, he had much more money at uſury, and that his ſervants lived only upon bribes.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>A Biſhop a Lyar and a Uſurer, nay ſurely Mr. Vic<g ref="char:EOLhyphen"/>ker, if your Lord have thoſe two faults, it cannot be but he hath more: ſo that for my own part; I think him verily to be the Biſhop of the Devill.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Nay Sir, I can give you proofe for the ſame more, that he is ſurely the Biſhop of the Devill: for <hi>Martin Mar-prelate</hi> hath ſet down a pretty thing in his <hi>Epiſtle to the terrible Prieſts,</hi> that the Biſhop of <hi>London</hi> when he throws his Bowle, (as he uſeth it commonly upon the Sabbath day) he runnes after it, and if it be too hard, he cries, <hi>rub, rub, rub,</hi> and ſaith, <hi>the Divel goe with thee, when he goeth himſelfe with it:</hi> So that by thoſe words, he nameth himſelfe the Biſhop of the Divell: but by his practiſe of tyrannicall dealing againſt the <hi>Lords faithfull Miniſters,</hi> not onely calleth, but proveth himſelfe to be the Biſhop of the Devil.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Ha, ha Maſter Vicker, you ſee your Lord Biſhop is a Devil by his own confeſſion: ſo indeed, you are not the <hi>Lords</hi> Miniſter, but the Miniſter of the Devil, as your Lord Biſhop is the Biſhop of the Devil.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt</speaker>
+               <p>You uſe your ſpeeches at pleaſure of my Lord, it may be you will not ſo eaſily anſwer them when you are called thereunto.</p>
+            </sp>
+            <pb facs="tcp:123773:11"/>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Yes Maſter Vicker I warrant you? Send a Purſui<g ref="char:EOLhyphen"/>vant when you will for us, and we will anſwer it, if we cannot make our parts good enough, we will ſend the Woman <hi>of Hampſteed</hi> to him.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>What meane you by that?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>If you will needs have me, I will tell you, you ſhall underſtand Maſter Vicker, that your good Lord at his firſt coming to be the Divels Lord at <hi>London,</hi> began to play <hi>Rex,</hi> (as he hath lately done at <hi>Fulham,</hi> in cutting down the Trees, there, to the great impoveriſhing of the Town) to cut down the Woods at <hi>Hampſteed</hi> and needs he would doe it, and began prettily well with it. The Townes-men became ſuiters to him that he would not, they could not perſwade him, for he was Lord of it, he ſaid. Well, ſeeing the men could doe no good with him, the women took the matter in hand; and as the Divels men came, (that is your Lords) to cut downe their Woods, the women fell a ſwadling of them, ſo that they durſt come no more to cut down any Trees there. Thus you ſee the Women overcame the Devill, and ſo feared him, that ther<g ref="char:EOLhyphen"/>by they preſerved their Woods. For by very nature, theſe De<g ref="char:EOLhyphen"/>vills Biſhops are given to deſtroy both Church and Com<g ref="char:EOLhyphen"/>mon-wealth. But if we be not good enough for them, we will intreat the Women of <hi>Hampſteed</hi> to take the matter in hand.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Well, I doubt not but you will for all this luſtines, kiſſe the Clinke or Gate-houſe for this geare, for my Lords Grace ſhall know of it, if my Lord doe not.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why Vicker of the Divell, let the whole Convo<g ref="char:EOLhyphen"/>cation Houſe of Divels know of it and you will; for they dare not, no not <hi>Beelzebub</hi> of <hi>Canterbury</hi> the chiefe of the Devills, come to diſputation, therby to approve their Callings to be lawfull, and other points in controverſie againſt the Diſcipline of <hi>God,</hi> as they have been often challenged, and offered by the <hi>Puritans,</hi> even to adventure their lives againſt their Biſhop<g ref="char:EOLhyphen"/>ricks, and yet they durſt not. And I pray you tell me; if they were not the Biſhops of the Devill indeed, would they refuſe this offer?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Why the <hi>Puritans</hi> have bin often diſputed with.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Where? In the Biſhops Cloſet? For they are aſhamed to have it tryed before any Magiſtrate. Let them if they dare procure a free diſputation, whereby every man may freely ſpeak, and be indifferently heard, and if the Biſhops and
+<pb facs="tcp:123773:11"/>all their partakers be not overthrowne, I will looſe my life for it.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>Have they not been already by publicke writing, and otherwiſe, but eſpecially by my Lords Grace, his works againſt <hi>Cartwright,</hi> ſufficiently confuted I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>No indeed, but I will tell you what a Noble man profeſſing the Goſpell ſaid, he demanded of the old Lord <hi>Hen<g ref="char:EOLhyphen"/>ry Howard</hi> (the Earle of <hi>Arundels</hi> Uncle now living, being a profeſſed Papiſt) what he thought of <hi>Whitgifts</hi> anſwere to <hi>Cartwright,</hi> who anſwered, <hi>There was no compariſon to be made between them: for</hi> Whitgift (ſaith he) <hi>is not worthy to carry</hi> Cart<g ref="char:EOLhyphen"/>wrights <hi>Books after him for learning.</hi> Marke here the opinion of a Papiſt, you know a deadly adverſary to Maſter <hi>Cartwright:</hi> and yet the ambitious wretch wil not ſtick now he is an Arch<g ref="char:EOLhyphen"/>biſhop, to call thoſe that are able to teach him (and which were in the Goſpell before him) Boyes, and revile them farre beyond all Chriſtian modeſty. And againe, if a man apply any new writer his opinion of the reformed Churches, in defence of the Lords Truth, as Maſter <hi>Calvin, Beza</hi> or others, he will not alſo ſticke to bragge and tell him, that he is able to teach <hi>Calvin</hi> and <hi>Beza,</hi> or any of them all; But the wretch, nor his aſſociates, dares not diſpute with Maſter <hi>Cartwright, Calvin,</hi> or <hi>Bezaes</hi> inſeriours.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Tuſh, foe, he ſits now upon his cogging ſtoole, which may truly be called the Chaire of Peſtilence; little may he doe if he cannot Bragge, Crack, and Face it out: For the <hi>truth</hi> is, he wrote againſt the Diſcipline, for no other end, but to get a Biſhopricke, for he never wrote ſince he hath caught one I warrant you. And the pide Faced Foole Doctor <hi>Bridges</hi> imitating him, hoping to leape like as he hath done, but it will not be.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>O you are greatly deceived, Dr. <hi>Bridges</hi> hath ut<g ref="char:EOLhyphen"/>terly renounced the Biſhops (as I have heard:) for that the Archbiſhop hath broken his <hi>faith</hi> with him.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>How comes tell you, at the beginning of the laſt <hi>Parli<g ref="char:EOLhyphen"/>ament,</hi> there were Biſhops to be ſtalled, and his Grace had promiſed him very <hi>confidently,</hi> that he would not onely ſpeak for him, alſo aſſure him of a Biſhoprick. Upon which the aſpi<g ref="char:EOLhyphen"/>ring wretch did only rely, otherwiſe it may be he would have bribed ſome Courtier to have dealt for him, as he did for his Denary: But her Majeſty lying at <hi>Richmond,</hi> and Mr. Doctor
+<pb facs="tcp:123773:12"/>repairing thither, upon the green afore <hi>Richmond</hi> Houſe, met with Maſter <hi>Thornbie</hi> the Maſter of the <hi>Savoy,</hi> who told him that he was ſuiter for the Biſhopricke of ſuch a place: Maſter Doctor <hi>Bridges</hi> anſwered and ſaid, it was true, he had the grant of it at his Grace his hands: ſaith Maſter <hi>Thornby;</hi> I had a promiſe of it to: but it is certaine that his Grace hath got it for another man, and he hath finiſhed it, and all is paſt, I can aſſure you of it. With that the Doctor was in his mad mood, and ſaid, <hi>Hath he ſerved me ſo, why then I will ſay and may ſpeake it truly, there is no Faith in a Bishop. Have I wrote in their defence, and have gotten the ignomie, shame, and reproach of it by publicke writing, and now to be thus vildly dealt with: I will tell you Maſter</hi> I hornby, <hi>I doe proteſt, and alwates will affirme it: That it is better to have one inch of pollicie, then all the Divinity in the world.</hi> If Maſter <hi>Thornby</hi> will deny this to be true, there be both godly and worſhipfull will juſtifie it to his face.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Nay, it is like enough that the Biſhop of <hi>Canterbury</hi> hath ſerved him ſo, it is not the firſt like pranke he hath play<g ref="char:EOLhyphen"/>ed, for it is his manner, he will promiſe much, and performe nothing: but perſecute <hi>Gods</hi> Miniſters, and glory in himſelfe: For if any godly Miniſter, or any other that feare <hi>God,</hi> come before him, he will offer them the Oath, either to accuſe them<g ref="char:EOLhyphen"/>ſelves, or their Chriſtian Brethren, or both; yea though no body be able to charge them with any offence: And if they will not ſweare, then to the Clinke, Gatehouſe, or White Lyon they goe roundly: and when ſuit is made unto him for their Liberty, then except they will enter into bonds to performe this, or doe that: why he will ſay they ſhall lye till they rot, with other bitter words. And he was wont to uſe theſe words often, and had a great pride in ſpeaking them (I cannot tell whether he hath left them now or no) <hi>As long as the Queen and I live, it shall be this or that.</hi> Judge you of this man, whether he hath a humble ſpirit, or an aſpiring mind, to joyne himſelfe with his dread Soveraigne the Queens Majeſty. He were beſt to remember his predeceſſor <hi>Cardinall Wolſey,</hi> betimes, leaſt he have the ſame end <hi>Cardinall Wolſey</hi> had.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I hope for theſe your taunting ſpeeches to ſee you trounſt, if I meet you handſomly in place where.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why Vicker of the Divell (I think you to be one of the Vickers of Hell, that <hi>Martin</hi> ſpeaks of) it is no marvell, though you take the Biſhops of the Devils part. For <hi>Winche<g ref="char:EOLhyphen"/>ſter</hi> when he went his Viſitations laſt, told your companions
+<pb facs="tcp:123773:12"/>the dumb dogs, <hi>that if his Grace of</hi> Canterbury, <hi>and himſelfe had not kneeled before her Majeſty for you, you had been all of you thruſt out of the Miniſtry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Oh wicked act, it had been better that neither of them had had a joynt to bow, then to worke ſuch a villany to <hi>Gods</hi> Church.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Herein they uſed great pollicie (you muſt thinke) for if we had a learned Miniſtry once, they know their King<g ref="char:EOLhyphen"/>dome would ſoon fall to the ground. Therfore they take order for that. For they will ſuſpend and thruſt all thoſe out of the Miniſtry, that have <hi>gifts</hi> fit for that high Calling: and keep none in, except nonreſidence, ſuch as gape after Biſhopricks, or dumb Idoll Miniſters.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>You are well overtaken my Maſters. Which way travell you I pray?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Towards <hi>London</hi> Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>What good News is there abroad, doe you heare any?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I know none good, for the Land is ſore troubled with theſe treacherous <hi>Papiſts,</hi> and filthy <hi>Atheiſts;</hi> and our Church peſtered with the Biſhops of the Devill, Non reſi<g ref="char:EOLhyphen"/>dents, Popiſh Prieſts, and dumb dogs, that there is no place, nor being for a faithfull Miniſter of the Word: For if there be any in any charge, the Biſhops have their <hi>Iohn Avales,</hi> to fetch them up before them, and then if they will not ſubſcribe, out of the Miniſtry he goes roundly.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>It was never merry world ſince there was ſo many <hi>Puritans,</hi> and ſuch running to Sermons as there is now.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Why? Do not you love to heare Sermons?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>No, I care for none of theſe Preciſe Fellows, I will not come at any of their Sermons.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke</speaker>
+               <p>I ſmell you already, I perceive you are a <hi>Papiſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papiſt</speaker>
+               <p>Whatſoever I be, you may be ſure I am no <hi>Puritan,</hi> for a <hi>Papiſt</hi> is allwaies better then a <hi>Puritan,</hi> and more Friends he ſhall find, both at home and abroad. And I have head my Lords Grace of <hi>Canterbury,</hi> and the Biſhop of <hi>Wincheſter,</hi> ſpeak it with mine own eares.</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I can ſay thus much my ſelfe, my Lords Grace is not ſo much troubled with <hi>Papiſts</hi> as with <hi>Puritans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>And I can ſay thus much to, the <hi>Papiſts</hi> have more Favour of his Grace a great deale, then the <hi>Puritans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>My Lords Grace you know, had a good Maſter, and
+<pb facs="tcp:123773:13"/>one that kept him farre enough from this Preciſeneſſe, I war<g ref="char:EOLhyphen"/>rant you.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Who was his Maſter I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Mary Maſter Doctor <hi>Pearne</hi> Sir.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>What Doctor <hi>Pearne?</hi> why he is the notableſt turn-coat in all this Land, there is none comparable to him: Why every Boy hath him in his mouth, for it is a Proverbe, both of old and young, that if one have a Coat or Cloak that is turned, they ſay it is <hi>Pearne.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>And doe you think the Biſhop of <hi>Canterbury</hi> will be as good a Turner, as his Maſter Doctor <hi>Pearne</hi> is?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Nay, he will exceed his Maſter, I am perſwaded.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Me thinks there ſhould be others as expert, and likely to make as good workmen in that Art, as his Grace, or his Maſter Doctor <hi>Pearne</hi> himſelfe is.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Who ſhould they be?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>What ſay you to <hi>Iohn of Gloceſter,</hi> Doctor <hi>Kennolde,</hi> Doctor <hi>Bancroft,</hi> Doctor <hi>Goodman,</hi> the Abbot that now is of <hi>Weſtminſter;</hi> Doctor <hi>Sprent of Briſtow,</hi> and Maſter Doctor <hi>Brid<g ref="char:EOLhyphen"/>ges</hi> Deane of <hi>Sarum?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Yea and I may ſay to you, all the Biſhops of the De<g ref="char:EOLhyphen"/>vill, and Nonreſidence, are likely to ſay pretty well to the matter to.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I had forgotten one that I ſhould have nominated to, that is Doctor <hi>Culpepper of Oxford,</hi> who hath the name to be a notable hunter.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>What Doctor <hi>Culpepper,</hi> Ile tell you there is many good things in him that way: but I will tell you one or two notes of his ſingle <hi>gifts.</hi> For he is an Archdeacon, and going in his Viſitation, not farre from <hi>Oxford:</hi> It is an ordinary thing with them, to have a Sermon before they keep Court, and al<g ref="char:EOLhyphen"/>wayes the Court is kept in the Church: The Preacher ſom<g ref="char:EOLhyphen"/>what troubling him (in telling the ſpirituall Fathers their du<g ref="char:EOLhyphen"/>ties) did ſomtimes nod at the Preacher, ſo as he did perceive him, to the end he ſhould make an end of his Sermon: The Preacher notwithſtanding went forward with his Text, which troubled Maſter Doctor ſore. Then he fell a beckoning to the Preacher, the Preacher would not ſee his ſignes, although the audience greatly marvailed at him: then Maſter Doctor (being ſore galled you muſt thinke) ſpake to him, and bad him come down: the Preacher thought it not long (though Maſter Doctor were <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eary to heare his duty told him in ſo plain a
+<pb facs="tcp:123773:13"/>manner) and ſeeing he could uſe no means to get him out of the Pulpit, called the Cryar to him, and bad him cry <hi>Hoyes,</hi> and ſo he did. Then went he very reverently about his buſineſſe, and left the Preacher in the Pulpit: Now tell me I pray you, whether he had more mind to heare the word preached, or to be with his kennell of Hounds?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Is this Doctor <hi>Culpepper</hi> of <hi>Oxford,</hi> I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>I marry is it Sir, it is the ſame man, and very well known to love a Hound, a Hawke, and, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I pray you can you tell me, I have heard that Dr. <hi>Bond</hi> is made Maſter of <hi>Magdalins</hi> in <hi>Oxford,</hi> contrary to the <hi>ſtatutes</hi> of the Univerſity. Whereas one Maſter <hi>Smith</hi> was firſt elected, according to the Orders of the houſe before him, he being one that ſtands for Reformation in our corrupt Church government. Therfore (as I have heard) the Biſhops of <hi>Canter<g ref="char:EOLhyphen"/>bury</hi> and <hi>Wincheſter,</hi> to prevent him, laboured to her Majeſty, that ſhe would give commandement, that the houſe ſhould accept of Dr. <hi>Bond</hi> in his ſtead, which by the Biſhops great labour, it was accompliſhed.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>It is very true Sir, I can aſſure you of that, and he may well be called the <hi>Bond of iniquity,</hi> for any goodneſſe is in him, he looks I can tell you to be a Lord Biſhop of the Devill ſhortly, beſides he is a good Dancer: I have heard how he ere now, hath come to a houſe in <hi>Oxford,</hi> (it ſhall be nameleſſe) where certaine Women of the Towne, were ready to goe dance, (it may be a match made of him before hand) comes me in the ſame houſe very pleaſantly to them, ſaying, <hi>you are well met,</hi> and makes him ready for them: Firſt put off his Cappe, ſaying, <hi>lye thou there Cappe,</hi> then his Tippet, <hi>lye thou there Tippet,</hi> then his Gown, <hi>lye thou there Gown:</hi> and laſt of all his Booke, (ſaith he) <hi>lye thou there Divinity and all:</hi> Then about the houſe he goes with the Women: now tell me I pray you, if he doe not draw in the <hi>bond of iniquity</hi> or no?</p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>Surely I ſee that no good men are left almoſt in any place, where they may be a helpe to increaſe or comfort thoſe that feare <hi>God.</hi> For the Biſhops have layd ſo many plots, that they have prevented all meanes whatſoever. Is not this a Diveliſh pollicie of the Biſhop of <hi>Canterbury,</hi> to place ſuch heads in the Univerſity, That none ſhall proceed, or be pre<g ref="char:EOLhyphen"/>ferred but ſuch as will ſubſcribe. Well, though the <hi>admonition</hi> which the Archbiſhop of <hi>Yorke,</hi> gave him in a <hi>letter</hi> before his <hi>death,</hi> doe not worke that effect in him, which the Biſhop
+<pb facs="tcp:123773:14"/>wiſht: Yet our hope is, that the <hi>Lord</hi> will ſoon bring him to the ſame end, at the which: he may with the ſame Biſhop con<g ref="char:EOLhyphen"/>feſſe his ſinne, in uſurping that unlawfull Calling he is now in: That is, a Pope or Paſtor of Paſtors, with all other his inju<g ref="char:EOLhyphen"/>rious and Tyrannicall dealing with <hi>Gods</hi> Miniſters, and other his Children. For all the Biſhops that ever were in that place, I meane in the Sea of <hi>Canterbury,</hi> did never ſo much hurt unto the Church of <hi>God,</hi> as he hath done ſince his coming. No Bi<g ref="char:EOLhyphen"/>ſhop that ever had ſuch an aſpiring and ambitious a mind as he, no not <hi>Cardinall Wolſey:</hi> none ſo proud as he, no not <hi>Ste<g ref="char:EOLhyphen"/>phen Gardiner</hi> of <hi>Wincheſter:</hi> none ſo Tyrannicall as he, no not <hi>Bonner.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>How ſay you Maſter Vicker, were it not a good thing if all Biſhops, and ſuch Idoll Shepheards as you are were a dying, then you would be in better minds then all the dayes of your <hi>life</hi> before?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>You ſay your pleaſure, but I care not what you ſay, that's the beſt of it.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Maſter Vicker, the Gentlemen are diſpoſed to move your <hi>patience,</hi> therfore you muſt beare with them.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>Maſter Parſon thinks I am in good earneſt, but he is deceived, for I aſſure you I doe nothing but to ſee what this <hi>Puritan</hi> will ſay: and the <hi>Puritan</hi> thinks I am one of his Fra<g ref="char:EOLhyphen"/>ternity.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>But are you not ſo indeed?</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>No truly, I came from <hi>Orleans,</hi> where I heard Maſſe every day: ſee, ſee, how hard the Vicker and he are in talke, let them alone, we will goe on.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>I can hardly beleeve that you heard Maſſe at <hi>Orle<g ref="char:EOLhyphen"/>ans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>If I had not been preſent at the Maſſe I ſhould have been taken for a <hi>Hugonot,</hi> and ſo I ſhould hardly eſcaped with my <hi>life.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>I am the gladder of your company.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>And I of yours, for I perceive you are a Catholicke.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Yea indeed, and I will not deny it: look, I think the <hi>Puritan</hi> and the Vicker will goe by the eares.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>He ſhall doe the Vicker no wrong for all my ſpee<g ref="char:EOLhyphen"/>ches to him: and he will be ruled by me, we will have him before my Lords Grace, for we will give him the ſlip, when we come in the City, and one of us will feth a Purſuivant, and the other two ſhall dog him.</p>
+            </sp>
+            <pb facs="tcp:123773:14"/>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>Content Sir, if you pleaſe, let it be ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Iacke.</speaker>
+               <p>How now my Maſters, can you not agree?</p>
+            </sp>
+            <sp>
+               <speaker>Miniſt.</speaker>
+               <p>I will deale well enough with him, if he durſt ſtand to his <hi>words.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Puritan.</speaker>
+               <p>I will jvſtifie any thing that I have ſpoken, if not, let me looſe my <hi>life:</hi> but to conclude, it is late, and becauſe we muſt depart, I will tell you one thing, and I would wiſh you to make uſe of it, and heare what the Prophet <hi>Iſay</hi> ſaith cap. 59. verſe 10. <hi>Their watchmen are all blind, they have no knowledge, they are all dumb dogs, they cannot barke; they lye and ſleep, and delight in ſleeping. And theſe greedy dogs can never have enough, all theſe shep<g ref="char:EOLhyphen"/>heards cannot underſtand.</hi> And Zachary 11.17. <hi>O Idoll shepheard that leaveth the flocke, the ſword shall be upon his arme, and upon his right eye: his arme shall be cleane dryed up, and his right eye shall be utterly darkended.</hi> And ſo fare ye well.</p>
+            </sp>
+            <div type="poem">
+               <head>HERE FOLLOWS THE DESCRIPTION OF A <hi>PVRITAN,</hi> (AS THEY ARE NOVV termed) by <hi>profane Papiſts</hi> and <hi>Atheiſts,</hi> &amp;c.</head>
+               <lg>
+                  <l>LOng hath it vext our Learned age to ſcan,</l>
+                  <l>who rightly might be term'd a <hi>PURITAN.</hi>
+                  </l>
+                  <l>A <hi>PURITAN</hi> both Layicke and Divine,</l>
+                  <l>I will according to my skill define.</l>
+                  <l>A Puritan, is he, that when he Prayes,</l>
+                  <l>his rowling Eyes up to the Heavens doth rayſe.</l>
+                  <l>A Puritan, is he, that cannot fare,</l>
+                  <l>to decke his round Head with a Bonnet ſquare.</l>
+                  <l>Whoſe Turkey robe, in his faire furred traine</l>
+                  <l>above his anckle, turneth up againe:</l>
+                  <l>That at his Belt a buffe clad Bible beares,</l>
+                  <l>ſtampt with the true <hi>Genevah</hi> Characters;</l>
+                  <l>Whoſe thin beat Volume ſcorneth to admit,</l>
+                  <l>the baſtard monuments of Humane Writ.</l>
+                  <l>Whoſe Haire, and Ruffes, dare not his Eares exceed:</l>
+                  <l>that on high Saints dayes weares his working Weed.</l>
+                  <pb facs="tcp:123773:15"/>
+                  <l>That Croſſes each doth hate, ſave on his pence,</l>
+                  <l>and loaths the publicke Rope of Pennitence.</l>
+                  <l>That in his cenſure each alike gainſayes,</l>
+                  <l>Poets in Pulpits, Holy Writ in Playes.</l>
+                  <l>Roodes in the Windows, and the Marriage Ring:</l>
+                  <l>the Churching, Vaile, and Midwives Chriſtening.</l>
+                  <l>A Puritan, is he, that liſteth not to pray</l>
+                  <l>'gainſt Thunder, in the coldeſt Winter day.</l>
+                  <l>A Puritan, is he, that quite denyes</l>
+                  <l>the help of Angels to a Benefice.</l>
+                  <l>That cannot brooke a Deputy, to ſerve</l>
+                  <l>and feed himſelfe, but let his people ſtarve.</l>
+                  <l>That loves alike an Organ in a Quire,</l>
+                  <l>as th' Elephant delights a Swine to heare.</l>
+                  <l>That never in his life did kneele before</l>
+                  <l>the gate of a Cathedrall Chancell dore.</l>
+                  <l>A Puritan, is he, that cannot Dine,</l>
+                  <l>nor Sup, without a double Grace divine.</l>
+                  <l>A Puritan, is he, that through the yeare,</l>
+                  <l>two Lords day Sermons doth either preach or heare.</l>
+                  <l>A Puritan, is he, that will not lend,</l>
+                  <l>againefull Oath, to his diſtreſſed Friend.</l>
+                  <l>A Puritan, is he, that for no meed</l>
+                  <l>will ſerve the time, and great mens humors feed.</l>
+                  <l>That doth the ſelfe-accuſing Oath refuſe:</l>
+                  <l>that hates the Ale-houſe, and a Stage, and Stews.</l>
+                  <l>A Puritan, is he, whoſe auſteere life,</l>
+                  <l>will not admit a Miſtris and a Wife.</l>
+                  <l>That when his betters ſweares, doth bite the lip:</l>
+                  <l>nor wilbe drunken for good fellowship.</l>
+                  <l>That wisheth for the amendment of the beſt:</l>
+                  <l>blames the leaſt ill, and doth the worſt deteſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Reader,</hi> if ſuch be term'd a Puritan,</l>
+                  <l>God make me wife, and thee an honeſt man.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:123773:15" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
